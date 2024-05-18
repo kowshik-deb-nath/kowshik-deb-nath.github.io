@@ -28,49 +28,35 @@ Work experience
 2 . **Fraud Transaction Detection**:
 
 * Primary Goal: Given a dataset of past transactions then from this data set have to build an ML model that can detect fraud transactions.
-
 * Solution: performed EDA and Feature Extraction apply multiple ML algo(Xgboost,SVC,Logistic Regression) then apply hyperparameter optimization and deployed on the server for production. Got 90% accuracy using Xgboost.
 * Library: scikit-learn,Flask
 
 **3. Michel AI Parabroker ChatBot**:
 
 * Primary Goal: scrape data from different lenders then get answer out the data from user query
-
 * Solution: used Retrieval Augmented Generation(RAG) based searching techniques to get the answers and for data storing used Pinecone also used Cohere Reranking to refine the RAG search
-
 * Library: PyPDF2,beautifulsoup,gunicorn,GPT-4, Pinecone,RAG, Cohere, Flask
-
 * Website: [Cynario AI](https://cynario.ai/)
-
 
 **4. Football Analyst ChatBot**:
 
 * Primary Goal: to make a Football Analyst which will analyze the pass data for a particular Team and Player and Predict the future match
-
 * Solution: scrap data from different football data sources and then used RAG,Pinecone and Cohere to get the response out of the huge amount of data
-
 * Library: BeautifulSoup, PyPDF2, RAG, Pinecone, Cohere
-
 * Website: [Kaizenwin](https://kaizenwin.com/)
 
 **5. Image Generation (Aieventbooth)**:
 
 * Primary Goal: user will add some presets for a given image then it will generate the image
-
 * Solution: used Stable Diffusion Image Generation, trained on custom image and then based on the used presets generates the image
-
 * Library: transformers,PyTorch
-
 * Website: [Aieventbooth](https://aieventbooth.com/)
 
 **6. Ai Energy**:
 
 * Primary Goal: clients have some organization's privacy and policy, now a tender will came and we have look up the organization's data how many matches each of the tender's and why matched
-
 * Solution: to solve this problem first chuck the data into different sections for this finetuned different models like Llama-2-7B and 13B also Mistral-7B then used the cosine similarity to get the matched data and then used the GPT-4 to get the answer out of the data
-
 * Library: transformers,PyTorch
-
 * Website: [Ai Energy](https://aienergy.manaknightdigital.com/)
 
 Skills
