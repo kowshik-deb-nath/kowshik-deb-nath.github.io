@@ -12,44 +12,42 @@ title                    : "Kowshik Deb Nath / Site Title"
 title_separator          : "-"
 name                     : &name "Kowshik Deb Nath"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kowshik-deb-nath.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/kowshik-deb-nath/kowshik-deb-nath.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image_1.png"
   name             : "Kowshik Deb Nath"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data Scientist | Machine Learning Engineer | Researcher | Deep Learning Enthusiast"
   location         : "Rajshai, Bangladesh"
-  employer         : "Raajshahi University of Engineering & Technology"
+  employer         : "Rajshahi University of Engineering & Technology"
   uri              : # URL
   email            : "koshik.debanath@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=U6CRjb8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "kowshik24"
+  kaggle           : "Kowshik Deb Nath"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "viperous.kowshik18"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -57,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "kowshik24"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,7 +68,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "kowshik-deb-nath"
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
@@ -129,7 +127,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &DebKowshik
 facebook:
   username               :
   app_id                 :
