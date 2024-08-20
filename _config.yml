@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kowshik Deb Nath / Site Title"
+title                    : "Kowshik Deb Nath"
 title_separator          : "-"
 name                     : &name "Kowshik Deb Nath"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   bio              : "Data Scientist | Machine Learning Engineer | Researcher | Deep Learning Enthusiast"
   location         : "Rajshai, Bangladesh"
   employer         : "Rajshahi University of Engineering & Technology"
-  uri              : # URL
+  uri              : "https://kowshik-deb-nath.github.io/"
   email            : "koshik.debanath@gmail.com" 
 
   # Academic websites

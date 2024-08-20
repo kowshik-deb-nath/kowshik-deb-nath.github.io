@@ -1,7 +1,7 @@
 ---
 title: "An Attention-Based Deep Learning Approach to Knee Injury Classification from MRI Images"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/An Attention-Based Deep Learning Approach to Knee Injury Classification from MRI Images
 excerpt: 'This paper is about the An Attention-Based Deep Learning Approach to Knee Injury Classification from MRI Images.'
 date: 2024-02-27
