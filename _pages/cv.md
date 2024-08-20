@@ -18,13 +18,18 @@ Education
 Work experience
 ======
 * Data Scientist: Manaknightdigital
-  * Machine Learning | Deep Learning | Data Analysis & Visualization
-  * Experience with Statistical Tools | Written & Verbal Communication
-  * Scripting Language: Python | Database: MySQL
+  * Machine Learning 
+  * Deep Learning 
+  * Data Analysis & Visualization
+  * Experience with Statistical Tools 
+  * Written & Verbal Communication
+  * Scripting Language: Python
+  * Database: MySQL,MongoDB,Sqlite3
   * ML Algorithms and Deep Learning Algorithms
-  * NLP: Text Normalization | BERT | Sentiment Analysis | Word Embedding
-  * Data Visualization & Analysis: PowerBI | Excel
-  * Web Framework: Flask || Libraries: Tensorflow | Scikit-learn | Keras | Seaborn
+  * NLP: Text Normalization 
+  * BERT,Sentiment Analysis,Word Embedding
+  * Data Visualization & Analysis: PowerBI, Excel
+  * Web Framework: Flask , Libraries: Tensorflow , Scikit-learn , Keras , Seaborn
   * Time Series Analysis
   * Large Language Models(LLMs)
 
@@ -77,28 +82,28 @@ Personal Projects:
   * Goal: Decoding AI vs Human is an interactive web application that allows users to put any text and see if a human or an AI wrote it. This application is trained on the Machine Hack dataset. 
   * Library/Technology: scikit-learn, AWS
 
-* PineconePDFExtractor | [PyPi](https://pypi.org/project/PineconePDFExtractor/):
+* PineconePDFExtractor [PyPi](https://pypi.org/project/PineconePDFExtractor/):
   * Goal: PineconePDFExtractor is a Python library for extracting text from PDF files for pinecone.
   * Library: PyPdf2
 
-* DataSciencePilot | [GitHub](https://github.com/kowshik24/DataSciencePilot)
+* DataSciencePilot [GitHub](https://github.com/kowshik24/DataSciencePilot)
   * Goal: It is a chat-based interface designed to interact with custom PDF files. It leverages the power of Pinecone for efficient vector database management and LLaMA-2 for advanced query response capabilities.
   * Library: Pinecone, Langchain, Transformers
 
-* CVAnalyzerPro | [StreamlitApp](https://cvanalyzerpro-lxv2nxsyvdx5ap55fbh9jl.streamlit.app/)
+* CVAnalyzerPro [StreamlitApp](https://cvanalyzerpro-lxv2nxsyvdx5ap55fbh9jl.streamlit.app/)
   * Goal: matches participant’s CVs with the company’s requirements and gives scoring.
   * Library: openai, Gemini, Streamlit
 
-* CaptionCraft | [StreamlitApp](https://captioncraft-b7h9xotupkyi2xs64gxmo9.streamlit.app/)
+* CaptionCraft [StreamlitApp](https://captioncraft-b7h9xotupkyi2xs64gxmo9.streamlit.app/)
   * Goal: generate caption using Google Gemini API.
   * Library: Gemini, Streamlit
 
-* PredictStock | [StreamlitApp](https://stocksage.streamlit.app/)
+* PredictStock [StreamlitApp](https://stocksage.streamlit.app/)
   * Goal: to predict the stock of any company like Google, Microsoft, Apple.
   * Solution: used LSTM to train the model.
   * Library: Tensorflow, Streamlit
 
-* Diabetes Prediction | [GitHub](https://github.com/kowshik24/Diabetes-Prediction-Pytorch-ANN)
+* Diabetes Prediction [GitHub](https://github.com/kowshik24/Diabetes-Prediction-Pytorch-ANN)
   * Goal: predict whether any patient has diabetes or not.
   * Solution: used Artificial Neural Network(ANN) to train the model and predict the disease.
   * Library: PyTorch, Flask, Gunicorn
@@ -108,10 +113,10 @@ Personal Projects:
   * Solution: Used KNN to find the nearest 5 movies using cosine similarity.
   * Library: pandas, numpy, sklearn, Flask, scipy
 
-* Market Price Prediction | [GitHub](https://github.com/kowshik24/Market-Price-Prediction)
+* Market Price Prediction [GitHub](https://github.com/kowshik24/Market-Price-Prediction)
   * Goal: to predict the price of the product using ARIMA, SARIMAX, LSTM, FbProphet, GRU, Xgboost.
 
-* Potato Disease Classification Using CNN | [GitHub](https://github.com/kowshik24/Potato-Disease-Classification)
+* Potato Disease Classification Using CNN [GitHub](https://github.com/kowshik24/Potato-Disease-Classification)
   * Goal: To classify disease in Potato.
   * Solution: the dataset is taken from Kaggle which contains 1506 images with 3 classes.
   * Result: Overall accuracy is 100%.
