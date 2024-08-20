@@ -8,7 +8,7 @@ date: 2024-02-27
 venue: '2023 26th International Conference on Computer and Information Technology (ICCIT)'
 DOI: '10.1109/ICCIT60459.2023.10441340'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10441340'
-citation: 'K. D. Nath, A. F. M. M. Rahman and M. A. Hossain &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'K. D. Nath, A. F. M. M. Rahman and M. A. Hossain &quot;An Attention-Based Deep Learning Approach to Knee Injury Classification from MRI Images.&quot; <i>IEEE</i>. 1(1).'
 ---
 
 Abstract:
