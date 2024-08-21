@@ -128,5 +128,9 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Download my resume
+======
+![Kowshik Deb Nath Resume](https://kowshik-deb-nath.github.io/files/Kowshik_Deb_Nath_Resume.pdf)
   
   
