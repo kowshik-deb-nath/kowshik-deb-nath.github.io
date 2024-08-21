@@ -131,6 +131,6 @@ Publications
 
 Download my resume
 ======
-![Kowshik Deb Nath Resume](https://kowshik-deb-nath.github.io/files/Kowshik_Deb_Nath_Resume.pdf)
+[Kowshik Deb Nath Resume](https://kowshik-deb-nath.github.io/files/Kowshik_Deb_Nath_Resume.pdf)
   
   
