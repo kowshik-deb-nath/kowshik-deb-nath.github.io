@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Kowshik Deb Nath"
+title: "Hi, I'm Kowshik Deb Nath"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi, I'm Kowshik Deb Nath
 
 ### Data Scientist | Machine Learning & Deep Learning Enthusiast
 
