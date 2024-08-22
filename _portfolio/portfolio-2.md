@@ -1,5 +1,5 @@
 ---
-title: "News Category Prediction | Rank: 7th"
+title: "News Category Prediction Rank: 7th"
 excerpt: "Issued by Machinehack Generative AI · Aug 2024<br/><img src='/images/News-Category-Hackathon-Banner.png'>"
 collection: portfolio
 ---
