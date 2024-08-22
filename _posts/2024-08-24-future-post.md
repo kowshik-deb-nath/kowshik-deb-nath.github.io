@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Phi3.5 : Phi-3.5 Mini, Phi-3.5 MoE, and Phi-3.5 Vision'
 date: 2024-08-23
 permalink: /posts/2024/08/blog-post-4/
 tags:
