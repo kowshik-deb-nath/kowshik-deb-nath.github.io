@@ -3,7 +3,7 @@ title: "News Category Prediction | Rank: 7th"
 excerpt: "Issued by Machinehack Generative AI · Aug 2024<br/><img src='/images/News-Category-Hackathon-Banner.png'>"
 collection: portfolio
 ---
-## News Category Prediction | Rank: 7th
+## News Category Prediction (Rank: 7th)
 
 I'm thrilled to announce that I secured the 7th position in the News Category Prediction challenge on Machinehack! 🏆
 
