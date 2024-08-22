@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-### Hi! I am Kowshik Deb Nath. I am currenly working as a Data Scientist
+# Hi, I'm Kowshik Deb Nath
 
-### Contact Information
-- **Phone:** +8801855675763
-- **Email:** [kowshik.debanath@gmail.com](mailto:kowshik.debanath@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/kowshik24/)
-- [GitHub](https://github.com/kowshik24)
-- [Portfolio](https://kowshik-deb-nath.github.io/)
-- **Location:** Rajshahi, Bangladesh
+### Data Scientist | Machine Learning & Deep Learning Enthusiast
 
-### Education
-**Rajshahi University of Engineering & Technology**, Rajshahi, Bangladesh  
-B.Sc. in Computer Science and Engineering; CGPA: 3.27/4.00  
-*Jan 2018 – Sep 2023*
+- 📍 **Location:** Rajshahi, Bangladesh
+- 🎓 **Education:** B.Sc. in Computer Science and Engineering, Rajshahi University of Engineering & Technology
+- 🌱 **Currently Learning:** Generative AI
+- 👯 **Looking to Collaborate On:** Machine Learning, Deep Learning, Generative AI
+- 📫 **Contact:** [kowshik.debanath@gmail.com](mailto:kowshik.debanath@gmail.com)
+- 💼 **Portfolio:** [kowshik-deb-nath.github.io](https://kowshik-deb-nath.github.io/)
 
-### Skills
+### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/kowshik24) | [GitHub](https://github.com/kowshik24) | [Twitter](https://twitter.com/debkowshik)
+
+### Skills:
 - **Languages:** C/C++, Python, Java, JavaScript, SQL, MATLAB
-- **Technologies:** Flask, MySQL, Git, Docker, AWS, CI/CD Pipeline, OpenCV, PyTorch, TensorFlow, Google Dialogflow, MLOps, NLP, Computer Vision, Time Series Analysis, Fine Tuning LLM’s, Generative Adversarial Networks (GAN), Data Mining, Prompt Engineering
+- **Technologies:** Flask, MySQL, Docker, AWS, CI/CD, OpenCV, PyTorch, TensorFlow, MLOps, NLP, Computer Vision, GANs, Data Mining, Time Series Analysis, Prompt Engineering
+
